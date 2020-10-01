@@ -2,3 +2,5 @@
 Szimmetrikus és aszimmetrikus titkosítás
 
 Itt futtatható: https://dartpad.dev/dart
+
+Korsós Richárd
